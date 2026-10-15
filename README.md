@@ -7,3 +7,5 @@
 - 音频由本仓库的公开 Release 提供。
 
 网页地址：https://alexchen87314-art.github.io/gaokao-listening-practice/
+
+说明：专项练习会播放对应套卷的完整音频；当前材料没有逐段时间戳，因此不会自动截取单题音频。
